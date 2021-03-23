@@ -1,5 +1,5 @@
 # crawler_keywords
-百度/搜索关键字爬虫
+百度/搜狗关键字爬虫
 
 ### 数据库 ###
 1. 安装MongoDB
