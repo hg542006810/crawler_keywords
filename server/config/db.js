@@ -1,7 +1,7 @@
 'use strict';
 
 // mongodb配置
-const mongodbHost = '127.0.0.1';
+const mongodbHost = 'localhost';
 const mongodbPort = 27017;
 const mongodbDatabase = 'crawler_keywords';
 const mongodbUserName = '';
